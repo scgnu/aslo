@@ -6,7 +6,6 @@ celery = Celery(__name__)
 TaskBase = celery.Task
 logger = get_task_logger(__name__)
 
-
 def init_celery(app):
     class ContextTask(TaskBase):
         abstract = True
