@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/scgnu/aslo-v3.svg?branch=master)](https://travis-ci.org/scgnu/aslo-v3)
 
 ### aslo-v3
-This repo hosts the upcoming version of ASLO (Software centre) for SugarLabs
+This repo hosts the upcoming version of ASLO (Software centre) for SugarLabs.
 
 ### Instructions
 
